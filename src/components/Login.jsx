@@ -1,11 +1,11 @@
 import React from 'react';
-import LoginIcon from '../image/undraw_team_up_re_84ok.svg';
+import LoginImage from '../image/undraw_team_up_re_84ok.svg';
 
 function Login() {
   return (
     <div className='main'>
         <section className="left container">
-            <img className="image" src={LoginIcon} alt="Icon"/>
+            <img className="image" src={LoginImage} alt="Icon"/>
         </section>
         <section className="right container">
             <form id="login-form" action="#">
