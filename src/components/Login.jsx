@@ -1,5 +1,5 @@
 import React from 'react';
-import LoginImage from '../image/undraw_team_up_re_84ok.svg';
+import LoginImage from '../image/login_icon.svg';
 
 function Login() {
   return (
